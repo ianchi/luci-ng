@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "properties": {
+    "gpio": {
+      "title": "GPIO",
+      "type": "integer",
+      "default": 0
+    },
+    "inverted": {
+      "title": "Inverted",
+      "type": "boolean"
+    }
+  }
+}
